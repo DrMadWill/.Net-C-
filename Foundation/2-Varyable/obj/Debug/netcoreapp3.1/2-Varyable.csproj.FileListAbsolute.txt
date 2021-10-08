@@ -1,4 +1,3 @@
-C:\Users\nofel\OneDrive\Desktop\CDev\Foundation\2-Varyable\obj\Debug\netcoreapp3.1\2-Varyable.csprojAssemblyReference.cache
 C:\Users\nofel\OneDrive\Desktop\CDev\Foundation\2-Varyable\obj\Debug\netcoreapp3.1\2-Varyable.AssemblyInfoInputs.cache
 C:\Users\nofel\OneDrive\Desktop\CDev\Foundation\2-Varyable\obj\Debug\netcoreapp3.1\2-Varyable.AssemblyInfo.cs
 C:\Users\nofel\OneDrive\Desktop\CDev\Foundation\2-Varyable\obj\Debug\netcoreapp3.1\2-Varyable.csproj.CoreCompileInputs.cache
@@ -11,3 +10,5 @@ C:\Users\nofel\OneDrive\Desktop\CDev\Foundation\2-Varyable\bin\Debug\netcoreapp3
 C:\Users\nofel\OneDrive\Desktop\CDev\Foundation\2-Varyable\obj\Debug\netcoreapp3.1\2-Varyable.dll
 C:\Users\nofel\OneDrive\Desktop\CDev\Foundation\2-Varyable\obj\Debug\netcoreapp3.1\2-Varyable.pdb
 C:\Users\nofel\OneDrive\Desktop\CDev\Foundation\2-Varyable\obj\Debug\netcoreapp3.1\2-Varyable.genruntimeconfig.cache
+C:\Users\nofel\OneDrive\Desktop\CDev\Foundation\2-Varyable\obj\Debug\netcoreapp3.1\2-Varyable.csproj.AssemblyReference.cache
+C:\Users\nofel\OneDrive\Desktop\CDev\Foundation\2-Varyable\obj\Debug\netcoreapp3.1\2-Varyable.GeneratedMSBuildEditorConfig.editorconfig

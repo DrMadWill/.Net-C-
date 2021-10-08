@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\1-FristLesson\\1-FristLesson.csproj": {}
+    "c:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\1-FristLesson\\1-FristLesson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\1-FristLesson\\1-FristLesson.csproj": {
+    "c:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\1-FristLesson\\1-FristLesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\1-FristLesson\\1-FristLesson.csproj",
+        "projectUniqueName": "c:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\1-FristLesson\\1-FristLesson.csproj",
         "projectName": "1-FristLesson",
-        "projectPath": "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\1-FristLesson\\1-FristLesson.csproj",
+        "projectPath": "c:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\1-FristLesson\\1-FristLesson.csproj",
         "packagesPath": "C:\\Users\\nofel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\1-FristLesson\\obj\\",
+        "outputPath": "c:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\1-FristLesson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nofel\\AppData\\Roaming\\NuGet\\NuGet.Config"
