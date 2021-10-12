@@ -11,11 +11,11 @@ namespace _4_data_type_convert
             int intdeyer = 10;
             long longdeyer = intdeyer;
 
-            Console.WriteLine(longdeyer);
+            float float_deyer = 25.6f;
+            double double_deyer = float_deyer;
 
-            string stringdeyer = "123";
-            int asdert = Int32.Parse(stringdeyer);
-            Console.WriteLine(asdert+2);
+            Console.WriteLine(double_deyer);
+
 
 
 
@@ -23,8 +23,15 @@ namespace _4_data_type_convert
 
             long longdeyer_2 = 25;
             int intdyeyer_2 = (int)longdeyer_2;
-            Console.WriteLine(intdyeyer_2);
 
+            double double_deyer_2 = 2332.3;
+            float float_deyer_2 = (float)double_deyer_2;
+
+            intdyeyer_2 =(int) double_deyer_2;
+
+            Console.WriteLine(double_deyer_2);
+
+            
 
 
         }
