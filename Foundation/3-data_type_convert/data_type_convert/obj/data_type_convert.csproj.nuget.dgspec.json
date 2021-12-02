@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\data_type_convert\\data_type_convert\\data_type_convert.csproj": {}
+    "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\3-data_type_convert\\data_type_convert\\data_type_convert.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\data_type_convert\\data_type_convert\\data_type_convert.csproj": {
+    "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\3-data_type_convert\\data_type_convert\\data_type_convert.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\data_type_convert\\data_type_convert\\data_type_convert.csproj",
+        "projectUniqueName": "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\3-data_type_convert\\data_type_convert\\data_type_convert.csproj",
         "projectName": "data_type_convert",
-        "projectPath": "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\data_type_convert\\data_type_convert\\data_type_convert.csproj",
+        "projectPath": "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\3-data_type_convert\\data_type_convert\\data_type_convert.csproj",
         "packagesPath": "C:\\Users\\nofel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\data_type_convert\\data_type_convert\\obj\\",
+        "outputPath": "C:\\Users\\nofel\\OneDrive\\Desktop\\CDev\\Foundation\\3-data_type_convert\\data_type_convert\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nofel\\AppData\\Roaming\\NuGet\\NuGet.Config",
